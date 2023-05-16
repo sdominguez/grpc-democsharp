@@ -1,0 +1,2 @@
+models/Holamundo.cs \
+models/HolamundoGrpc.cs: ../holamundo.proto
